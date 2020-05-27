@@ -19,6 +19,13 @@ You have ten chances to make your guesses, if you exhaust all of them without gu
 
 Good Luck!
 
+## Demo
+
+https://media.giphy.com/media/JmnG6coD4sEVWrWIdB/giphy.gif
+
+https://media.giphy.com/media/UVf2LNksYce5STYucv/giphy.gif
+
+
 ## Dev Tools
 - Front End:
   - `bootstrap` - serves as the base for this app's css structure
