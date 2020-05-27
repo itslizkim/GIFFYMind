@@ -1,5 +1,7 @@
 # GIFFYMind
 
+
+
 ## Introduction
 Welcome to GIFFYMind, a remake of the MasterMind game. GIFFYMind is a single-page application written with React JS.
 Website: https://giffymind.netlify.com/
@@ -18,11 +20,6 @@ Choose four gifs in the next available row and then click on the Check button. T
 You have ten chances to make your guesses, if you exhaust all of them without guessing the code, you lose the game.
 
 Good Luck!
-
-## Demo
-
-![](Animated GIF-original (1).gif)
-
 
 ## Dev Tools
 - Front End:
