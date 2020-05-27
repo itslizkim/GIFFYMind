@@ -21,9 +21,7 @@ Good Luck!
 
 ## Demo
 
-https://media.giphy.com/media/JmnG6coD4sEVWrWIdB/giphy.gif
-
-https://media.giphy.com/media/UVf2LNksYce5STYucv/giphy.gif
+![](Animated GIF-original (1).gif)
 
 
 ## Dev Tools
