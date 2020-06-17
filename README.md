@@ -27,6 +27,7 @@ Good Luck!
 ## Dev Tools
 - Front End:
   - `bootstrap` - serves as the base for this app's css structure
+  - `Reactjs` - creates the functionality in the game
 
 - Back End:
   - `Rails` - hosts the database server
